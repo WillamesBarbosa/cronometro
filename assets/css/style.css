@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(92, 91, 91);
+    text-align: center;
+    color: white;
+}
+
+.cronometro{
+    border: 2px solid rgb(252, 107, 131);
+    width: 20rem;
+    height: 20rem;
+    text-align: center;
+    margin-left: 32rem;
+    border-radius: 10rem;
+}
+
+.tela{
+    margin-top: 8rem;
+    font-size: 2.5rem;
+    color: white;
+}
+
+.botoes{
+    margin-top: 5rem;
+}
+
+.botoesClicar{
+    background-color: rgb(252, 107, 131);
+    border: 2px solid rgb(252, 107, 131);
+    color: white;
+}
