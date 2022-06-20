@@ -1,0 +1,6 @@
+# CRONOMETRO V1.0
+
+## Primeira versão do cronometro
+
+### Esta é a versão inicial do cronometro, portanto haverão atualizações.
+### Na versão 2.0 haverá um botão para resetar o contador e correção de bugs
